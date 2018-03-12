@@ -1,3 +1,4 @@
 class Car{
-	public srting {get; set; };
+	public srting Name{get; set; };
+	public string LastName {get; det; };
 }
